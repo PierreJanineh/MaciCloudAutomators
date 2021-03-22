@@ -105,7 +105,7 @@ end run</string>
 				<key>isViewVisible</key>
 				<integer>1</integer>
 				<key>location</key>
-				<string>545.500000:495.000000</string>
+				<string>545.500000:315.000000</string>
 				<key>nibPath</key>
 				<string>/System/Library/Automator/Run AppleScript.action/Contents/Resources/Base.lproj/main.nib</string>
 			</dict>
@@ -153,7 +153,7 @@ end run</string>
 				<key>ActionParameters</key>
 				<dict>
 					<key>source</key>
-					<string>on run {input}	set a to input as string is equal to "Add NoSync to all files in folder"	set b to input as string is equal to "Remove NoSync on all files in folder"	set c to input as string is equal to "Get all NoSync files in folder"		if a then		tell application "Add_NOSync" to activate	else if b then		tell application "Remove_NOSync" to activate	else if c then		tell application "Find_NOSync" to activate	end ifend run</string>
+					<string>on run {input}	set a to input as string is equal to "Add NoSync to all files in folder"	set b to input as string is equal to "Remove NoSync on all files in folder"	set c to input as string is equal to "Get all NoSync files in folder"		if a then		tell application "Add_NOSync" to activate	else if b then		tell application "Remove_NOSync" to activate	else if c then		tell application "Reveal_NOSync" to activate	end ifend run</string>
 				</dict>
 				<key>BundleIdentifier</key>
 				<string>com.apple.Automator.RunScript</string>
@@ -207,7 +207,7 @@ end run</string>
 				<key>isViewVisible</key>
 				<integer>1</integer>
 				<key>location</key>
-				<string>545.500000:920.000000</string>
+				<string>545.500000:560.000000</string>
 				<key>nibPath</key>
 				<string>/System/Library/Automator/Run AppleScript.action/Contents/Resources/Base.lproj/main.nib</string>
 			</dict>
@@ -217,7 +217,7 @@ end run</string>
 	</array>
 	<key>connectors</key>
 	<dict>
-		<key>72000EC9-2A9B-4AD2-9E1F-0CCA941DE5F4</key>
+		<key>77B3DA25-0D40-4066-BF58-19BCCF546663</key>
 		<dict>
 			<key>from</key>
 			<string>3F511519-DE22-41F2-888F-235E97EABDA7 - 3F511519-DE22-41F2-888F-235E97EABDA7</string>
