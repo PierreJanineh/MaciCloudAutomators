@@ -10,12 +10,12 @@ These Automators are designed to exclude/include files/folders in iCloud Drive f
     - Finds all .nosync files in foldes, files that are excluded from iCloud synchronization.
     
 ## Installation:
-Install this repository and place the main app file "iCloud Tool.app" in your Applications folder.
+Install this repository and place all the files in a one folder, the iCloud Tool.app may not work if you place other apps in other folders.
 And using the application is as easy as clicking the app icon and choosing the action needed.
 
-> You may need to open evey one of the 4 applications in Automator by opening Automator app > File > Open > All 4 apps. Then press command+s to save them in your Automator's version.
+> You may need to open evey one of the 4 applications in Automator by opening Automator app > File > Open > All 4 apps. Then press command+s to save them in your Automator's current version.
 
-> You may need to enter Settings > Security & Privacy > General > click "Open" or check the "App Store and identified developers" in the bottom of the page under "Allow apps downloaded from:".
+> You may need to allow identified app. Go to Settings > Security & Privacy > General > click "Open" or check the "App Store and identified developers" in the bottom of the page under "Allow apps downloaded from:".
 
 ## Usage:
 This application is for managing iCloud uploading process, especially when you add large-sized files to your iCloud Drive.
