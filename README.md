@@ -34,8 +34,4 @@ Check the [Medium article](https://medium.com/programming-with-pierre/pause-stop
 
 > Have fun using it, and any donations would be most appreciated. [Donate](https://www.paypal.com/donate?hosted_button_id=DVVUAG77AKXYA)
 
-<<<<<<< HEAD
-![Donation QR Code](http://pierrejanineh.com/img/paypal_donation.png)
-=======
 ! [Donation QR Code](http://pierrejanineh.com/img/paypal_donation.png)
->>>>>>> f499185ec67a8ded659d943c2848ac053daa15cd
