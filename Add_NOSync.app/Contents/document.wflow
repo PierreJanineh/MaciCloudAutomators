@@ -326,45 +326,51 @@
 					YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25Z
 					JGFyY2hpdmVyVCR0b3BYJG9iamVjdHMSAAGG
 					oF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290
-					gAGvEBYLDBMYICorLTQ4PT5BRUknTlFZXWFj
-					VSRudWxs0w0ODxAREl8QF05TQ29tcG91bmRQ
-					cmVkaWNhdGVUeXBlXxAPTlNTdWJwcmVkaWNh
-					dGVzViRjbGFzcxABgAKAFdIUDxUXWk5TLm9i
-					amVjdHOhFoADgBTUDxkaGxwdHh9fEBFOU1Jp
-					Z2h0RXhwcmVzc2lvbl8QEE5TTGVmdEV4cHJl
-					c3Npb25fEBNOU1ByZWRpY2F0ZU9wZXJhdG9y
-					gBOADoAEgBHVISIjJA8lJicoKVlOU09wZXJh
-					bmReTlNTZWxlY3Rvck5hbWVfEBBOU0V4cHJl
-					c3Npb25UeXBlW05TQXJndW1lbnRzgAaABRAD
-					gAiADVx2YWx1ZUZvcktleTrSIw8QLIAH0i4v
-					MDFaJGNsYXNzbmFtZVgkY2xhc3Nlc18QEE5T
-					U2VsZkV4cHJlc3Npb26jMDIzXE5TRXhwcmVz
-					c2lvblhOU09iamVjdNIUDzU3oTaACYAM0w8j
-					OTo7PFlOU0tleVBhdGiACxAKgApUa2luZNIu
-					Lz9AXxAcTlNLZXlQYXRoU3BlY2lmaWVyRXhw
-					cmVzc2lvbqM/MjPSLi9CQ15OU011dGFibGVB
-					cnJheaNCRDNXTlNBcnJhedIuL0ZHXxATTlNL
-					ZXlQYXRoRXhwcmVzc2lvbqRGSDIzXxAUTlNG
-					dW5jdGlvbkV4cHJlc3Npb27TSiMPS0xNXxAP
-					TlNDb25zdGFudFZhbHVlgA8QAIAQ0i4vT1Bf
-					EBlOU0NvbnN0YW50VmFsdWVFeHByZXNzaW9u
-					o08yM9UPUlNUVVZMV0xYWk5TTW9kaWZpZXJY
-					TlNOZWdhdGVZTlNPcHRpb25zXk5TT3BlcmF0
-					b3JUeXBlgBIJEAXSLi9aW18QG05TRXF1YWxp
-					dHlQcmVkaWNhdGVPcGVyYXRvcqNaXDNfEBNO
-					U1ByZWRpY2F0ZU9wZXJhdG9y0i4vXl9fEBVO
-					U0NvbXBhcmlzb25QcmVkaWNhdGWjXmAzW05T
-					UHJlZGljYXRl0i4vRGKiRDPSLi9kZV8QE05T
-					Q29tcG91bmRQcmVkaWNhdGWjZGAzAAgAEQAa
-					ACQAKQAyADcASQBMAFEAUwBsAHIAeQCTAKUA
-					rACuALAAsgC3AMIAxADGAMgA0QDlAPgBDgEQ
-					ARIBFAEWASEBKwE6AU0BWQFbAV0BXwFhAWMB
-					cAF1AXcBfAGHAZABowGnAbQBvQHCAcQBxgHI
-					Ac8B2QHbAd0B3wHkAekCCAIMAhECIAIkAiwC
-					MQJHAkwCYwJqAnwCfgKAAoIChwKjAqcCsgK9
-					AsYC0ALfAuEC4gLkAukDBwMLAyEDJgM+A0ID
-					TgNTA1YDWwNxAAAAAAAAAgEAAAAAAAAAZgAA
-					AAAAAAAAAAAAAAAAA3U=
+					gAGvEB4LDBMZISssLjU5Pj9CRkooT1JaXmJn
+					bHBzdHd4e31VJG51bGzTDQ4PEBESXxAXTlND
+					b21wb3VuZFByZWRpY2F0ZVR5cGVfEA9OU1N1
+					YnByZWRpY2F0ZXNWJGNsYXNzEAGAAoAd0hQP
+					FRhaTlMub2JqZWN0c6IWF4ADgBSAHNQPGhsc
+					HR4fIF8QEU5TUmlnaHRFeHByZXNzaW9uXxAQ
+					TlNMZWZ0RXhwcmVzc2lvbl8QE05TUHJlZGlj
+					YXRlT3BlcmF0b3KAE4AOgASAEdUiIyQlDyYn
+					KCkqWU5TT3BlcmFuZF5OU1NlbGVjdG9yTmFt
+					ZV8QEE5TRXhwcmVzc2lvblR5cGVbTlNBcmd1
+					bWVudHOABoAFEAOACIANXHZhbHVlRm9yS2V5
+					OtIkDxAtgAfSLzAxMlokY2xhc3NuYW1lWCRj
+					bGFzc2VzXxAQTlNTZWxmRXhwcmVzc2lvbqMx
+					MzRcTlNFeHByZXNzaW9uWE5TT2JqZWN00hQP
+					NjihN4AJgAzTDyQ6Ozw9WU5TS2V5UGF0aIAL
+					EAqAClRraW5k0i8wQEFfEBxOU0tleVBhdGhT
+					cGVjaWZpZXJFeHByZXNzaW9uo0AzNNIvMENE
+					Xk5TTXV0YWJsZUFycmF5o0NFNFdOU0FycmF5
+					0i8wR0hfEBNOU0tleVBhdGhFeHByZXNzaW9u
+					pEdJMzRfEBROU0Z1bmN0aW9uRXhwcmVzc2lv
+					btNLJA9MTU5fEA9OU0NvbnN0YW50VmFsdWWA
+					DxAAgBDSLzBQUV8QGU5TQ29uc3RhbnRWYWx1
+					ZUV4cHJlc3Npb26jUDM01Q9TVFVWV01YTVla
+					TlNNb2RpZmllclhOU05lZ2F0ZVlOU09wdGlv
+					bnNeTlNPcGVyYXRvclR5cGWAEgkQBdIvMFtc
+					XxAbTlNFcXVhbGl0eVByZWRpY2F0ZU9wZXJh
+					dG9yo1tdNF8QE05TUHJlZGljYXRlT3BlcmF0
+					b3LSLzBfYF8QFU5TQ29tcGFyaXNvblByZWRp
+					Y2F0ZaNfYTRbTlNQcmVkaWNhdGXUDxobHB1k
+					ZWaAE4AZgBWAG9UiIyQlDyYnKGoqgAaABYAW
+					gA3SFA9tOKFugBeADNMPJDo7PHKAC4AYXWZp
+					bGVFeHRlbnNpb27TSyQPdU1OgBqAEFZub3N5
+					bmPVD1NUVVZXTVgoWYASCdIvMEV8okU00i8w
+					fn9fEBNOU0NvbXBvdW5kUHJlZGljYXRlo35h
+					NAAIABEAGgAkACkAMgA3AEkATABRAFMAdAB6
+					AIEAmwCtALQAtgC4ALoAvwDKAM0AzwDRANMA
+					3ADwAQMBGQEbAR0BHwEhASwBNgFFAVgBZAFm
+					AWgBagFsAW4BewGAAYIBhwGSAZsBrgGyAb8B
+					yAHNAc8B0QHTAdoB5AHmAegB6gHvAfQCEwIX
+					AhwCKwIvAjcCPAJSAlcCbgJ1AocCiQKLAo0C
+					kgKuArICvQLIAtEC2wLqAuwC7QLvAvQDEgMW
+					AywDMQNJA00DWQNiA2QDZgNoA2oDdQN3A3kD
+					ewN9A4IDhAOGA4gDjwORA5MDoQOoA6oDrAOz
+					A74DwAPBA8YDyQPOA+QAAAAAAAACAQAAAAAA
+					AACAAAAAAAAAAAAAAAAAAAAD6A==
 					</data>
 				</dict>
 				<key>BundleIdentifier</key>
@@ -426,7 +432,7 @@
 				<key>isViewVisible</key>
 				<integer>1</integer>
 				<key>location</key>
-				<string>545.500000:495.000000</string>
+				<string>545.500000:527.000000</string>
 				<key>nibPath</key>
 				<string>/System/Library/Automator/Filter Finder Items 2.action/Contents/Resources/Base.lproj/main.nib</string>
 			</dict>
@@ -900,7 +906,7 @@
 				<key>isViewVisible</key>
 				<integer>1</integer>
 				<key>location</key>
-				<string>545.500000:655.000000</string>
+				<string>545.500000:687.000000</string>
 				<key>nibPath</key>
 				<string>/System/Library/Automator/Rename Finder Items.action/Contents/Resources/Base.lproj/main.nib</string>
 			</dict>
@@ -910,26 +916,26 @@
 	</array>
 	<key>connectors</key>
 	<dict>
-		<key>13F50427-025B-4DBE-BD74-E982CE3EB7F3</key>
-		<dict>
-			<key>from</key>
-			<string>5F2F6CB3-4EC2-475B-A570-3A80B997A2D8 - 5F2F6CB3-4EC2-475B-A570-3A80B997A2D8</string>
-			<key>to</key>
-			<string>DB911484-997C-458A-AD38-FEF21137BECA - DB911484-997C-458A-AD38-FEF21137BECA</string>
-		</dict>
-		<key>68CF9EAC-1887-45DA-8498-32127329B6A5</key>
+		<key>0045B20D-21AF-4D9C-85E9-8FC4820E4854</key>
 		<dict>
 			<key>from</key>
 			<string>A16717FB-06A5-47E2-B492-0FDEB61E7191 - A16717FB-06A5-47E2-B492-0FDEB61E7191</string>
 			<key>to</key>
 			<string>5F2F6CB3-4EC2-475B-A570-3A80B997A2D8 - 5F2F6CB3-4EC2-475B-A570-3A80B997A2D8</string>
 		</dict>
-		<key>C1057BF0-94BE-4E4F-929C-9B2FA2A11BA7</key>
+		<key>47368D90-FF4C-412E-B71E-1A8EBFAE8DD4</key>
 		<dict>
 			<key>from</key>
 			<string>8B19E820-94DD-46CF-AB5B-CED1084293A8 - 8B19E820-94DD-46CF-AB5B-CED1084293A8</string>
 			<key>to</key>
 			<string>A16717FB-06A5-47E2-B492-0FDEB61E7191 - A16717FB-06A5-47E2-B492-0FDEB61E7191</string>
+		</dict>
+		<key>665A30EC-3E0D-4DEE-9687-168C531890AF</key>
+		<dict>
+			<key>from</key>
+			<string>5F2F6CB3-4EC2-475B-A570-3A80B997A2D8 - 5F2F6CB3-4EC2-475B-A570-3A80B997A2D8</string>
+			<key>to</key>
+			<string>DB911484-997C-458A-AD38-FEF21137BECA - DB911484-997C-458A-AD38-FEF21137BECA</string>
 		</dict>
 	</dict>
 	<key>workflowMetaData</key>
