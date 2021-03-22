@@ -25,4 +25,5 @@ What I usually do is Add NoSync to files that are really large, or files that I 
 
 
 > Have fun using it, and any donations would be most appreciated. [Donate](https://www.paypal.com/donate?hosted_button_id=DVVUAG77AKXYA)
+
 ! [Donation QR Code] (http://pierrejanineh.com/img/paypal_donation.png)
