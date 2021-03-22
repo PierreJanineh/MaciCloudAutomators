@@ -21,6 +21,8 @@ And using the application is as easy as clicking the app icon and choosing the a
 This application is for managing iCloud uploading process, especially when you add large-sized files to your iCloud Drive.
 What I usually do is Add NoSync to files that are really large, or files that I work on, and once I'm finished I Remove NoSync to allow iCloud to start uploading the files again.
 
+Check the [Medium article](https://medium.com/programming-with-pierre/pause-stop-icloud-drive-from-syncing-4df73d402735) for more info.
+
 ## Things to keep in mind:
 * The folders/files manipulated should be under "iCloud Drive" directory on your mac.
 * The files manipulated by this automator application cannot be files that are only on iCloud Drive (are not downloaded on your machine)
