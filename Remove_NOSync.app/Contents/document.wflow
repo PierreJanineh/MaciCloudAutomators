@@ -261,7 +261,7 @@
 					<dict>
 						<key>tokenizedValue</key>
 						<array>
-							<string>nosync</string>
+							<string>.nosync</string>
 						</array>
 					</dict>
 					<key>useLeadingZeros</key>
@@ -297,7 +297,7 @@
 					<key>ignoreCase</key>
 					<true/>
 					<key>includeExtensions</key>
-					<integer>2</integer>
+					<integer>0</integer>
 					<key>insertionPosition</key>
 					<integer>0</integer>
 					<key>minimumCount</key>
@@ -323,7 +323,7 @@
 					<key>textInput</key>
 					<string></string>
 					<key>textToFind</key>
-					<string>nosync</string>
+					<string>.nosync</string>
 					<key>useLeadingZeros</key>
 					<false/>
 				</dict>
@@ -672,7 +672,7 @@
 	</array>
 	<key>connectors</key>
 	<dict>
-		<key>8AD893FB-06E4-4B10-9D9B-AD2CF98A0BAF</key>
+		<key>3140B3C6-270E-4DA8-B9F7-9DEA204C5FA6</key>
 		<dict>
 			<key>from</key>
 			<string>BFC6F33C-4A03-4FF4-9796-FBC018D99C68 - BFC6F33C-4A03-4FF4-9796-FBC018D99C68</string>
