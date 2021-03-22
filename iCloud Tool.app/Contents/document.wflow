@@ -51,7 +51,7 @@
 				<key>ActionParameters</key>
 				<dict>
 					<key>source</key>
-					<string>on run		choose from list {"Add NoSync to all files in folder", "Remove NoSync on all files in folder", "Get all NoSync files in folder"} with prompt "Please make your selection:" without multiple selections allowed and empty selection allowed	return the result as stringend run</string>
+					<string>on run		choose from list {"Add NoSync to all files in folder", "Remove NoSync on all files in folder", "Get all NoSync files in folder", "Get all not deleted downloads"} with prompt "Please make your selection:" without multiple selections allowed and empty selection allowed	return the result as stringend run</string>
 				</dict>
 				<key>BundleIdentifier</key>
 				<string>com.apple.Automator.RunScript</string>
@@ -153,7 +153,10 @@ end run</string>
 				<key>ActionParameters</key>
 				<dict>
 					<key>source</key>
-					<string>on run {input}	set a to input as string is equal to "Add NoSync to all files in folder"	set b to input as string is equal to "Remove NoSync on all files in folder"	set c to input as string is equal to "Get all NoSync files in folder"		if a then		tell application "Add_NOSync" to activate	else if b then		tell application "Remove_NOSync" to activate	else if c then		tell application "Reveal_NOSync" to activate	end ifend run</string>
+					<string>on run {input}	set a to input as string is equal to "Add NoSync to all files in folder"	set b to input as string is equal to "Remove NoSync on all files in folder"	set c to input as string is equal to "Get all NoSync files in folder"	set d to input as string is equal to "Get all not deleted downloads"
+		if a then		tell application "Add_NOSync" to activate	else if b then		tell application "Remove_NOSync" to activate	else if c then		tell application "Reveal_NOSync" to activate
+	else if d then
+		tell application "Reveal_Sync" to activate	end ifend run</string>
 				</dict>
 				<key>BundleIdentifier</key>
 				<string>com.apple.Automator.RunScript</string>
@@ -217,7 +220,7 @@ end run</string>
 	</array>
 	<key>connectors</key>
 	<dict>
-		<key>77B3DA25-0D40-4066-BF58-19BCCF546663</key>
+		<key>40307406-3B4F-441E-88F6-B920F5BCAD5C</key>
 		<dict>
 			<key>from</key>
 			<string>3F511519-DE22-41F2-888F-235E97EABDA7 - 3F511519-DE22-41F2-888F-235E97EABDA7</string>
