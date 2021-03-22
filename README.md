@@ -6,8 +6,10 @@ These Automators are designed to exclude/include files/folders in iCloud Drive f
     - Adds .nosync extension to all files in folder, to exclude them from uploding to iCloud.
 * Remove NoSync from all files in folder.
     - Removes .nosync extension from all files in folder, to include them for uploading to iCloud.
-* Find NoSync from all files in folder.
+* Get all NoSync files in folder.
     - Finds all .nosync files in foldes, files that are excluded from iCloud synchronization.
+* Get all not deleted downloads.
+    - Finds all iCloud files that are already uploaded to iCloud but are using local storage, after they are revealed, you can right-click them and select "Remove downloads" to remove from local storage.
     
 ## Installation:
 Install this repository and place all the files in a one folder, the iCloud Tool.app may not work if you place other apps in other folders.
